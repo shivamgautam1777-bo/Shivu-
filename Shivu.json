@@ -22,6 +22,12 @@
         "key": "zalaRG01",
         "expirydate": "15-06-2055",
         "Allowoffline": true
+    },
+    {
+        "device_id": "c238080e917dfee4",
+        "key": "mantasha01",
+        "expirydate": "15-06-2055",
+        "Allowoffline": true
     }
 ]
 
