@@ -16,5 +16,12 @@
         "key": "zalah01",
         "expirydate": "15-06-2055",
         "Allowoffline": true
+    },
+    {
+        "device_id": "76bc3c4a96",
+        "key": "zalah01",
+        "expirydate": "15-06-2055",
+        "Allowoffline": true
     }
+]
 ]
