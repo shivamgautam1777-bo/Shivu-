@@ -16,29 +16,5 @@
         "key": "zalah01",
         "expirydate": "15-06-2055",
         "Allowoffline": true
-    },
-    {
-        "device_id": "8fda6c6de8c677",
-        "key": "key67890",
-        "expirydate": "15-06-2026",
-        "Allowoffline": true
-    }
-    {
-        "device_id": "8fdafkkc6c6de8c677",
-        "key": "key67890",
-        "expirydate": "15-06-2026",
-        "Allowoffline": true
-    }
-    {
-        "device_id": "8fdafcoo6c6de8c677",
-        "key": "key67890",
-        "expirydate": "15-06-2026",
-        "Allowoffline": true
-    }
-    {
-        "device_id": "8fdafc6kkc6de8c677",
-        "key": "key67890",
-        "expirydate": "15-06-2026",
-        "Allowoffline": true
     }
 ]
