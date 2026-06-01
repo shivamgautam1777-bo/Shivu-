@@ -40,6 +40,12 @@
         "key": "dhar001",
         "expirydate": "15-06-2055",
         "Allowoffline": true
+    },
+    {
+        "device_id": "a01333d743377368",
+        "key": "rajk01",
+        "expirydate": "15-06-2055",
+        "Allowoffline": true
     }
 ]
 
