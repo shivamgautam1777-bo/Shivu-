@@ -46,6 +46,11 @@
         "key": "rajk01",
         "expirydate": "15-06-2055",
         "Allowoffline": true
+    },
+    {
+        "device_id": "d1bf6f53bbae89d3",
+        "key": "rajfriend01",
+        "expirydate": "15-06-2055",
+        "Allowoffline": true
     }
-]
 
