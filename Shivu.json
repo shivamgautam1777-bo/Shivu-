@@ -52,5 +52,11 @@
         "key": "rajfriend01",
         "expirydate": "15-06-2055",
         "Allowoffline": true
+    },
+    {
+        "device_id": "35bf273e15f859b9",
+        "key": "600bro",
+        "expirydate": "15-06-2055",
+        "Allowoffline": true
     }
-
+]
