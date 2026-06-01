@@ -70,5 +70,11 @@
         "key": "jaydev01",
         "expirydate": "15-06-2055",
         "Allowoffline": true
+    },
+    {
+        "device_id": "5312697f07e60be0",
+        "key": "8492bro",
+        "expirydate": "15-06-2055",
+        "Allowoffline": true
     }
 ]
