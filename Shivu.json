@@ -70,5 +70,11 @@
         "key": "8492bro",
         "expirydate": "15-06-2055",
         "Allowoffline": true
+    },
+    {
+        "device_id": "42f8fbc20dc09148",
+        "key": "prida01",
+        "expirydate": "15-06-2055",
+        "Allowoffline": true
     }
 ]
