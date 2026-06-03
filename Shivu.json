@@ -94,5 +94,17 @@
         "key": "pritamkakuchdoshnahihai01",
         "expirydate": "15-06-2055",
         "Allowoffline": true
+    },
+    {
+        "device_id": "85fe889940343faa",
+        "key": "rikis01",
+        "expirydate": "15-06-2055",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "b568bf64e5b3d646",
+        "key": "ribhu01",
+        "expirydate": "15-06-2055",
+        "Allowoffline": true
     }
 ]
