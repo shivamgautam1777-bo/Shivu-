@@ -106,5 +106,11 @@
         "key": "ribhu01",
         "expirydate": "15-06-2055",
         "Allowoffline": true
+    },
+    {
+        "device_id": "55ddbdcb2fe22540",
+        "key": "custom01",
+        "expirydate": "15-06-2055",
+        "Allowoffline": true
     }
 ]
