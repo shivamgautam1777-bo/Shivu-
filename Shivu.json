@@ -125,4 +125,10 @@
         "expirydate": "15-06-2055",
         "Allowoffline": true
     }
+    {
+        "device_id": "9c8584701eff3a36",
+        "key": "pritam02",
+        "expirydate": "15-06-2025",
+        "Allowoffline": false
+    }
 ]
