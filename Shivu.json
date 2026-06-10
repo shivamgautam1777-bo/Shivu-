@@ -166,5 +166,11 @@
         "key": "sonali01",
         "expirydate": "15-06-2055",
         "Allowoffline": false
+    },
+    {
+        "device_id": "3d2ea9b1f6649c94",
+        "key": "jranjan01",
+        "expirydate": "15-06-2055",
+        "Allowoffline": false
     }
 ]
