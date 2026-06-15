@@ -178,5 +178,11 @@
         "key": "mohit0",
         "expirydate": "15-06-2055",
         "Allowoffline": false
+    },
+    {
+        "device_id": "2b2847ec4601c11e",
+        "key": "adtele01",
+        "expirydate": "15-06-2055",
+        "Allowoffline": false
     }
 ]
