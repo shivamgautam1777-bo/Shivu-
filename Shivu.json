@@ -238,5 +238,11 @@
         "key": "vvdemo15",
         "expirydate": "17-07-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "85d7b175e2b3f02d",
+        "key": "lopmudra01",
+        "expirydate": "17-07-2040",
+        "Allowoffline": false
     }
 ]
