@@ -244,5 +244,11 @@
         "key": "lopmudra01",
         "expirydate": "17-07-2040",
         "Allowoffline": false
+    },
+    {
+        "device_id": "ea00f6be889b522e",
+        "key": "permanent09",
+        "expirydate": "17-07-2040",
+        "Allowoffline": false
     }
 ]
