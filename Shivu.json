@@ -262,5 +262,11 @@
         "key": "utsav076",
         "expirydate": "18-07-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "46af3e9b0d23072a",
+        "key": "premium01",
+        "expirydate": "18-07-2055",
+        "Allowoffline": false
     }
 ]
