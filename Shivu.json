@@ -270,7 +270,13 @@
         "Allowoffline": false
     },
     {
-        "device_id": "3aecf14ce0b86be2",
+        "device_id": "7ef3097a789f5d6a",
+        "key": "demo090",
+        "expirydate": "19-07-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "3aecf14pe0b86be2",
         "key": "demo78",
         "expirydate": "19-07-2026",
         "Allowoffline": false
