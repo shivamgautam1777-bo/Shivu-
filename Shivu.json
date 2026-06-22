@@ -286,5 +286,11 @@
         "key": "demo078",
         "expirydate": "19-07-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "1ebf5e6e39511b43",
+        "key": "dbmonth01",
+        "expirydate": "22-07-2026",
+        "Allowoffline": false
     }
 ]
