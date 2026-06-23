@@ -292,5 +292,11 @@
         "key": "dbmonth01",
         "expirydate": "22-07-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "f67754e9a9ca7aa1",
+        "key": "Souvik01",
+        "expirydate": "19-07-2033",
+        "Allowoffline": false
     }
 ]
