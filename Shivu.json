@@ -322,5 +322,11 @@
         "key": "kumard01",
         "expirydate": "19-07-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "c63c28b600effa12",
+        "key": "ratiram09",
+        "expirydate": "19-07-2026",
+        "Allowoffline": false
     }
 ]
