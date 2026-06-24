@@ -316,5 +316,11 @@
         "key": "heeralal01",
         "expirydate": "19-01-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "ee6535a76ac29b2b",
+        "key": "kumard01",
+        "expirydate": "19-07-2026",
+        "Allowoffline": false
     }
 ]
