@@ -304,5 +304,11 @@
         "key": "satveer09",
         "expirydate": "19-05-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "04acf89efcd77f49",
+        "key": "arjun01",
+        "expirydate": "19-07-2026",
+        "Allowoffline": false
     }
 ]
