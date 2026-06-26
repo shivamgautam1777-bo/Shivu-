@@ -328,5 +328,11 @@
         "key": "ratiram09",
         "expirydate": "19-01-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "6413e2986373c8f2",
+        "key": "master08",
+        "expirydate": "19-07-2055",
+        "Allowoffline": false
     }
 ]
