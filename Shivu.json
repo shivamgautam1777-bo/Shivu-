@@ -358,5 +358,11 @@
         "key": "demo578",
         "expirydate": "19-01-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "512fa4269220becd",
+        "key": "demo778",
+        "expirydate": "19-07-2026",
+        "Allowoffline": false
     }
 ]
