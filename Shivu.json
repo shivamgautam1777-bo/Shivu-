@@ -352,5 +352,11 @@
         "key": "month09",
         "expirydate": "27-07-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "bf3e4fa54858fe65",
+        "key": "demo578",
+        "expirydate": "19-07-2026",
+        "Allowoffline": false
     }
 ]
