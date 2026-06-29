@@ -376,5 +376,11 @@
         "key": "mkperma01",
         "expirydate": "19-07-2036",
         "Allowoffline": false
+    },
+    {
+        "device_id": "a32408f14dd787c2",
+        "key": "sumit032",
+        "expirydate": "29-07-2026",
+        "Allowoffline": false
     }
 ]
