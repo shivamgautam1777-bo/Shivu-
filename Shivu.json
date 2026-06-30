@@ -388,5 +388,11 @@
         "key": "demod0",
         "expirydate": "19-07-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "bd2e9736dd359ab7",
+        "key": "expiry1040",
+        "expirydate": "19-07-2026",
+        "Allowoffline": false
     }
 ]
