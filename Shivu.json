@@ -430,5 +430,11 @@
         "key": "nitish09",
         "expirydate": "06-08-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "37d6adec7519949b",
+        "key": "vishal021",
+        "expirydate": "07-08-2026",
+        "Allowoffline": false
     }
 ]
