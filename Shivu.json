@@ -460,5 +460,12 @@
         "key": "g56788765",
         "expirydate": "22-08-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "bc610596a105140a",
+        "username": "adhikrat01",
+        "password": "pass4566",
+        "expirydate": "16-08-2029",
+        "Allowoffline": true
     }
 ]
